@@ -13,7 +13,7 @@ large_brood_neeblers = 5
 
 while generation <= 50 and (small_neeblers+large_brood_neeblers) != 0:
 
-    # Let's see how many babies of each trait we can get for each generation
+    # Let's see how many offspring of each trait we can get for each generation
     baby_small_neeblers = 0
     baby_large_brood_neeblers = 0
     
