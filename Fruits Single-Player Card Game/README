@@ -1,0 +1,137 @@
+Example Playthrough
+
+Round 1 -------------
+Card A: Mango 
+Card B: Mango
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: A
+Your current hand is: Mango, 
+You currently have: 
+	 0 Banana Card(s), 
+	 0 Apple Card(s), 
+	 0 Cherry Card(s), 
+	 1 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 0 pts
+
+Round 2 -------------
+Card A: Mango 
+Card B: Cherry
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: A
+Your current hand is: Mango, Mango, 
+You currently have: 
+	 0 Banana Card(s), 
+	 0 Apple Card(s), 
+	 0 Cherry Card(s), 
+	 2 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 6 pts
+
+Round 3 -------------
+Card A: Apple 
+Card B: Cherry
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: B
+Your current hand is: Mango, Mango, Cherry, 
+You currently have: 
+	 0 Banana Card(s), 
+	 0 Apple Card(s), 
+	 1 Cherry Card(s), 
+	 2 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 6 pts
+
+Round 4 -------------
+Card A: Banana 
+Card B: Apple
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: B
+Your current hand is: Mango, Mango, Cherry, Apple, 
+You currently have: 
+	 0 Banana Card(s), 
+	 1 Apple Card(s), 
+	 1 Cherry Card(s), 
+	 2 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 8 pts
+
+Round 5 -------------
+Card A: Cherry 
+Card B: Mango
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: A
+Your current hand is: Mango, Mango, Cherry, Apple, Cherry, 
+You currently have: 
+	 0 Banana Card(s), 
+	 1 Apple Card(s), 
+	 2 Cherry Card(s), 
+	 2 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 13 pts
+
+Round 6 -------------
+Card A: Mango 
+Card B: Cherry
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: A
+Your current hand is: Mango, Mango, Cherry, Apple, Cherry, Mango, 
+You currently have: 
+	 0 Banana Card(s), 
+	 1 Apple Card(s), 
+	 2 Cherry Card(s), 
+	 3 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 7 pts
+
+Round 7 -------------
+Card A: Mango 
+Card B: Mango
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: A
+Your current hand is: Mango, Mango, Cherry, Apple, Cherry, Mango, Mango, 
+You currently have: 
+	 0 Banana Card(s), 
+	 1 Apple Card(s), 
+	 2 Cherry Card(s), 
+	 4 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 19 pts
+
+Round 8 -------------
+Card A: Mango 
+Card B: Apple
+You may pick one card to keep. Enter A to keep Card A, Enter B to keep Card B: B
+Your current hand is: Mango, Mango, Cherry, Apple, Cherry, Mango, Mango, Apple, 
+You currently have: 
+	 0 Banana Card(s), 
+	 2 Apple Card(s), 
+	 2 Cherry Card(s), 
+	 4 Mango Card(s), 
+	 0 Poison Apple Card(s), 
+Your score: 21 pts
+
+Round 9 -------------
+Card A: Apple 
+Card B: Apple
+FUROONNNG: What's this, your Apple card mutated into a Poisoned Apple card! 
+You do not get a choice this round. 
+The Poisoned Apple card has been added to your hand.
+Your current hand is: Mango, Mango, Cherry, Apple, Cherry, Mango, Mango, Apple, Poison Apple, 
+You currently have: 
+	 0 Banana Card(s), 
+	 2 Apple Card(s), 
+	 2 Cherry Card(s), 
+	 4 Mango Card(s), 
+	 1 Poison Apple Card(s), 
+Your score: 13 pts
+
+Round 10 -------------
+Card A: Apple 
+Card B: Banana
+FUROONNNG: What's this, your Apple card mutated into a Poisoned Apple card! 
+You do not get a choice this round. 
+The Poisoned Apple card has been added to your hand.
+Your current hand is: Mango, Mango, Cherry, Apple, Cherry, Mango, Mango, Apple, Poison Apple, Poison Apple, 
+You currently have: 
+	 0 Banana Card(s), 
+	 2 Apple Card(s), 
+	 2 Cherry Card(s), 
+	 4 Mango Card(s), 
+	 2 Poison Apple Card(s), 
+Your score: 13 pts
+
+FINAL SCORE: 13 pts
