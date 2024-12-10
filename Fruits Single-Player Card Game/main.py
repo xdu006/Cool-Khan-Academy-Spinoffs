@@ -56,7 +56,7 @@ def pick_a_card(card_suites):
     if 1 in (card_A, card_B):
         if random.random() > mutation_threshold:
             print("FUROONNNG: What's this, your Apple card mutated into a Poisoned Apple card! \n" +
-                  "You do no get a choice this round. \n" +
+                  "Unfortunetly, you do not get a choice this round. \n" +
                   "The Poisoned Apple card has been added to your hand.")
             return 4
 
