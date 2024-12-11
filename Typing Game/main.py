@@ -34,4 +34,4 @@ if level == 4 :
     level += play_level(5, "hard")
    
 
-print(f"\nHIGHEST LEVEL REACHED: level {level+1}! \nThanks for playing.")
+print(f"\nHIGHEST LEVEL CONQURED: level {level}! \nThanks for playing.")
