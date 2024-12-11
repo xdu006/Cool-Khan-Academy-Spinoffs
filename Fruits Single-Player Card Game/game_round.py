@@ -1,3 +1,5 @@
+"""Deals fruits cards and scores current hand based on number of each card type."""
+
 import random
 import time
 
@@ -43,7 +45,7 @@ def get_mango_score(num_mangos):
 
 
 def pick_a_card(card_suites):
-    """ Generates 2 cards based on inputted card suites and asks player to pick one. Returns the index of the card chosen. """
+    """ Deals 2 cards based on inputted card suites and asks player to pick one. Returns the index of the card chosen. """
 
     # Generate and display cards
     choice = None
